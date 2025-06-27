@@ -11,7 +11,7 @@ This project presents a fully interactive Power BI Report that explores Netflix 
 
 ## 📸 Dashboard Preview
 
-<p align="center">
+<p align="left">
   <img src="Dashboard.png" alt="Dashboard Screenshot" width="500"/>
 </p>
 
