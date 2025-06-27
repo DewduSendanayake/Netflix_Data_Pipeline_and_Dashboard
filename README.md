@@ -1,6 +1,6 @@
 # Netflix Power BI Dashboard 🎬
 
-This Power BI report provides exploratory data analysis and visual insights on Netflix titles from 2000 to 2025.
+This project presents a fully interactive Power BI Report that explores Netflix titles from 2000 to 2025. Through detailed EDA (Exploratory Data Analysis) and a clean, dashboard-style layout, the report highlights trends, patterns, and insights across genres, ratings, and countries.
 
 ## 💡 Key Features
 - Cleaned and transformed raw data using Power Query
@@ -15,11 +15,11 @@ This Power BI report provides exploratory data analysis and visual insights on N
   <img src="Dashboard.png" alt="Dashboard Screenshot" width="500"/>
 </p>
 
-## 📁 Files
-- `Netflix_Report.pbix` – Main Power BI report
-- `netflix_titles.csv` – Original dataset (source: [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows))
-
 ## 🛠 Tools Used
 - Power BI Desktop
 - Power Query (M Language)
 - DAX for KPIs and Measures
+
+## 📝 License
+
+This project is licensed under the MIT License
