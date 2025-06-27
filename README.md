@@ -10,7 +10,7 @@ This Power BI report provides exploratory data analysis and visual insights on N
 - Custom visual styling inspired by Netflix branding
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## 📁 Files
 - `Netflix_Report.pbix` – Main Power BI report
